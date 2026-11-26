@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ashokjangra1003?style=social)](https://github.com/ashokjangra1003?tab=followers)
 
-![Ashok Kumar — E-commerce Developer](./Developer portfolio banner with laptop illustration.png)
+![Ashok Kumar — E-commerce Developer](./https://github.com/ashokjangra1003/ashokjangra1003/blob/main/Developer%20portfolio%20banner%20with%20laptop%20illustration.png)
 
 I'm an e-commerce developer based in Bangkok, Thailand, with 7 years of experience in IT. I build custom Magento 2 modules, integrate APIs and payment gateways, and develop Shopify storefront features. I use Docker and CI/CD to keep development and deployments consistent.
 
